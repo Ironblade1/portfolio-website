@@ -4,6 +4,11 @@ export const projects = {
     "Desc": "A Social Media Website ",
     "Tags": ["React.js","Supabase", "HTML,CSS,JS", "Node.js"]
   }, 
+  "DocSync": {
+    "Link": "https://docsync-client-6z30.onrender.com/",
+    "Desc": "Google Doc Clone",
+    "Tags": ["ReactJs", "Socket.io", "MongoDB", "NodeJs"]
+  },
   "ChatScope": {
     "Link": "https://ironblade1-chat-analysis-app-vymawn.streamlit.app/",
     "Desc": "a website where you will analysis your whatsapp messages",
