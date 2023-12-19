@@ -9,9 +9,9 @@ export default function HomePage() {
           <p>I am currently pursuing a Bachelor of Technology degree from the esteemed <strong>IIITDM Jabalpur</strong>.</p>
         <p>I like creating websites with <strong>MongoDB</strong> in <strong>React.js</strong> & <strong>Node.js</strong>.</p>
         <p>I also enjoy watching <strong>movies</strong> and <strong>web-series</strong>.</p>
-        <button type="button" class="btn btn-outline-success" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSc4Qj_TgzYpOIZBqIgUHhVdIzetkZ6E0DZRasAVbTJbxppFBw/viewform'">
+{/*         <button type="button" class="btn btn-outline-success" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSc4Qj_TgzYpOIZBqIgUHhVdIzetkZ6E0DZRasAVbTJbxppFBw/viewform'">
           Download CV
-        </button>
+        </button> */}
 
       </div>
     </Layout>
