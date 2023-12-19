@@ -19,6 +19,11 @@ export const projects = {
     "Desc": "Built a React web app facilitating streamlined appointment scheduling and visualization for trainers and clients.",
     "Tags": ["ReactJs", "JavaSccript", "Bootstrap", "SyncFusion"]
   },
+  "InsightBlog": {
+    "Link": "https://puzzled-loincloth-slug.cyclic.app/",
+    "Desc": "In this website, we create and publish blogs.",
+    "Tags": ["Node.js", 'HTML,CSS,JS', 'EJS']
+  },
   "ATM-Machine": {
     "Link": "https://github.com/Ironblade1/ATM-Machine",
     "Desc": "an automated Teller machine with the user's Account Number, and Password",
@@ -28,10 +33,5 @@ export const projects = {
     "Link": "https://github.com/Ironblade1/Event-Booking-System",
     "Desc": "Event Booking System",
     "Tags": ['Node.js', 'HTML,CSS,JS', 'MySQL', "Bootstrap"]
-  }, 
-  "InsightBlog": {
-    "Link": "https://making-blogs.onrender.com/",
-    "Desc": "In this website, we create and publish blogs.",
-    "Tags": ["Node.js", 'HTML,CSS,JS', 'EJS']
-  }
+  } 
 }
