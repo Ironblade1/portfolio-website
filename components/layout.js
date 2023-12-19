@@ -36,7 +36,7 @@ export default function Layout({ pageTitle, children }) {
         <Link href="/contact">Contact</Link>
         <Link href="/projects">My Projects</Link>
         <Link href="/skills">My Skills</Link>
-        <Link href="https://docs.google.com/forms/d/e/1FAIpQLSc4Qj_TgzYpOIZBqIgUHhVdIzetkZ6E0DZRasAVbTJbxppFBw/viewform">Resume</Link>
+        <Link href="https://drive.google.com/file/d/1WxVNDaqqAnofJdRhQM3hbIlmrdejjauu/view">Resume</Link>
       </div>
       <main>{children}</main>
       <Analytics />
