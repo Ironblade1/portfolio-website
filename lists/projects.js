@@ -18,7 +18,7 @@ export const projects = {
     "Link": "https://github.com/Ironblade1/Appointment-schedular",
     "Desc": "Built a React web app facilitating streamlined appointment scheduling and visualization for trainers and clients.",
     "Tags": ["ReactJs", "JavaSccript", "Bootstrap", "SyncFusion"]
-  }
+  },
   "ATM-Machine": {
     "Link": "https://github.com/Ironblade1/ATM-Machine",
     "Desc": "an automated Teller machine with the user's Account Number, and Password",
